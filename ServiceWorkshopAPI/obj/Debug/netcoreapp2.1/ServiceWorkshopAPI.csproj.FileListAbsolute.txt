@@ -1,0 +1,14 @@
+C:\Users\Michael\Source\repos\ServiceWorkshopAPI\ServiceWorkshopAPI\obj\Debug\netcoreapp2.1\ServiceWorkshopAPI.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Source\repos\ServiceWorkshopAPI\ServiceWorkshopAPI\obj\Debug\netcoreapp2.1\ServiceWorkshopAPI.RazorAssemblyInfo.cache
+C:\Users\Michael\Source\repos\ServiceWorkshopAPI\ServiceWorkshopAPI\obj\Debug\netcoreapp2.1\ServiceWorkshopAPI.RazorAssemblyInfo.cs
+C:\Users\Michael\Source\repos\ServiceWorkshopAPI\ServiceWorkshopAPI\obj\Debug\netcoreapp2.1\ServiceWorkshopAPI.AssemblyInfoInputs.cache
+C:\Users\Michael\Source\repos\ServiceWorkshopAPI\ServiceWorkshopAPI\obj\Debug\netcoreapp2.1\ServiceWorkshopAPI.AssemblyInfo.cs
+C:\Users\Michael\Source\repos\ServiceWorkshopAPI\ServiceWorkshopAPI\bin\Debug\netcoreapp2.1\ServiceWorkshopAPI.deps.json
+C:\Users\Michael\Source\repos\ServiceWorkshopAPI\ServiceWorkshopAPI\bin\Debug\netcoreapp2.1\ServiceWorkshopAPI.runtimeconfig.json
+C:\Users\Michael\Source\repos\ServiceWorkshopAPI\ServiceWorkshopAPI\bin\Debug\netcoreapp2.1\ServiceWorkshopAPI.runtimeconfig.dev.json
+C:\Users\Michael\Source\repos\ServiceWorkshopAPI\ServiceWorkshopAPI\bin\Debug\netcoreapp2.1\ServiceWorkshopAPI.dll
+C:\Users\Michael\Source\repos\ServiceWorkshopAPI\ServiceWorkshopAPI\bin\Debug\netcoreapp2.1\ServiceWorkshopAPI.pdb
+C:\Users\Michael\Source\repos\ServiceWorkshopAPI\ServiceWorkshopAPI\obj\Debug\netcoreapp2.1\ServiceWorkshopAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Michael\Source\repos\ServiceWorkshopAPI\ServiceWorkshopAPI\obj\Debug\netcoreapp2.1\ServiceWorkshopAPI.dll
+C:\Users\Michael\Source\repos\ServiceWorkshopAPI\ServiceWorkshopAPI\obj\Debug\netcoreapp2.1\ServiceWorkshopAPI.pdb
+C:\Users\Michael\Source\repos\ServiceWorkshopAPI\ServiceWorkshopAPI\obj\Debug\netcoreapp2.1\ServiceWorkshopAPI.csprojAssemblyReference.cache
